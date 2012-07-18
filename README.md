@@ -6,6 +6,7 @@ Not quite imagemagick
 *	extract size info
 
 See: https://github.com/NorgannasAddOns/node-imageinfo
+ or https://github.com/rsms/node-imagemagick (file only)
 
 Later
 
