@@ -9,3 +9,4 @@ Later
 
 *	extract other tags - exiftool - or other npm
 *	perform basic resize, rotate,... - or other npm
+	* https://github.com/aheckmann/gm.git
